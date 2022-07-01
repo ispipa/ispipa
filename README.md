@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ismael!<img align="center" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /></h2>
+<h2> Hi, I'm Ismael!<img align="center" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif width="50"/></h2>
 
 
 
