@@ -1,5 +1,4 @@
-<h2> Hi, I'm Ismael! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS)" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS)" width="230">
+<h2> Hi, I'm Ismael! <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p></h2>
 
 
 
